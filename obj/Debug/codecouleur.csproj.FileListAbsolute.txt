@@ -1,0 +1,11 @@
+C:\Users\ericf\source\repos\Codecouleur\codecouleur\bin\Debug\codecouleur.exe.config
+C:\Users\ericf\source\repos\Codecouleur\codecouleur\bin\Debug\codecouleur.exe
+C:\Users\ericf\source\repos\Codecouleur\codecouleur\bin\Debug\codecouleur.pdb
+C:\Users\ericf\source\repos\Codecouleur\codecouleur\obj\Debug\codecouleur.csproj.AssemblyReference.cache
+C:\Users\ericf\source\repos\Codecouleur\codecouleur\obj\Debug\codecouleur.csproj.SuggestedBindingRedirects.cache
+C:\Users\ericf\source\repos\Codecouleur\codecouleur\obj\Debug\codecouleur.Form1.resources
+C:\Users\ericf\source\repos\Codecouleur\codecouleur\obj\Debug\codecouleur.Properties.Resources.resources
+C:\Users\ericf\source\repos\Codecouleur\codecouleur\obj\Debug\codecouleur.csproj.GenerateResource.cache
+C:\Users\ericf\source\repos\Codecouleur\codecouleur\obj\Debug\codecouleur.csproj.CoreCompileInputs.cache
+C:\Users\ericf\source\repos\Codecouleur\codecouleur\obj\Debug\codecouleur.exe
+C:\Users\ericf\source\repos\Codecouleur\codecouleur\obj\Debug\codecouleur.pdb
